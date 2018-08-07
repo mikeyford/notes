@@ -2,6 +2,6 @@
 
 ## Rebase from master
 
-If already on working branch \n
-`git fetch && git rebase origin/master` \n
+If already on working branch  
+`git fetch && git rebase origin/master`  
 `git push branchname -f`
