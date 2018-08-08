@@ -6,4 +6,4 @@ If already on working branch
 `git fetch && git rebase origin/master`  
 `git push branchname -f`
 
-THIS IS NEW!!
+THIS IS NEEEWWER (after updating maiil setting)
