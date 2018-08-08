@@ -1,4 +1,4 @@
-# notes
+# git notes
 
 ## Rebase from master
 
