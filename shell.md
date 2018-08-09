@@ -1,7 +1,7 @@
 
 
-'Ctrl-K' kill line forwards
-'Ctrl-U' kill line backwards
+'Ctrl-K' kill line forwards  
+'Ctrl-U' kill line backwards . 
 'Ctrl-W' kill backwards by one word
 'Ctrl-Y' yank last action
 
