@@ -1,9 +1,5 @@
-# git notes
+## notes
 
-## Rebase from master
+[git](https://github.com/mikeyford/notes/blob/master/git.md)
 
-If already on working branch  
-`git fetch && git rebase origin/master`  
-`git push branchname -f`
-
-THIS IS EVENT NEEEWWER (after updating maiil setting again)
+[kaylee](https://github.com/mikeyford/notes/blob/master/kaylee.md)
