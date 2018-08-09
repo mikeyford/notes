@@ -1,7 +1,7 @@
-`Alt-F` jump a word forward . 
-`Alt-B` jump a word backwards 
-`Ctrl-A` jump to start of line
-`Ctrl-E` jump to end of line
+`Alt-F` jump a word forward   
+`Alt-B` jump a word backwards    
+`Ctrl-A` jump to start of line  
+`Ctrl-E` jump to end of line   
 `Ctrl-K` kill line forwards  
 `Ctrl-U` kill line backwards   
 `Ctrl-W` kill backwards by one word  
