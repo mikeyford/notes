@@ -21,3 +21,7 @@
 
 `reset` like clear but can fix issues  
 
+`Ctrl-R` reverse search history (recursive)
+`Ctrl-G` escape reverse search and preserve input
+ 
+
