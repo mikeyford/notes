@@ -13,7 +13,7 @@
 `0 w` Copy path of file  
 `+` New dir  
 `C-x <RET>` open file in OS default app
-
+`! zip archive_name.zip *` do-shell-command and zip selected files
 
 ### Markdown Mode
 
