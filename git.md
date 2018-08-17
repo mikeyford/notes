@@ -12,3 +12,12 @@ If already on working branch, with commits pushed to origin
 Get token from github>settings>developer settings>personal access tokens.
 
 `git clone https://ACCESS_TOKEN0@github.com/mikeyford/REPO_NAME.git`
+
+
+### Tidy up branchs that have been merged
+
+Delete all local branches that have been merged
+`git branch --merged | egrep -v "(^\*|master|dev)" | xargs git branch -d`
+
+Get rid of old remote tracking branches
+`git remote prune origin`
