@@ -10,6 +10,7 @@
 
 ### Dired Mode
 
+`C-x up` go up a dir
 `0 w` Copy path of file  
 `+` New dir  
 `C-x <RET>` open file in OS default app
