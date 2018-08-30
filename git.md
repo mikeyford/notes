@@ -21,3 +21,13 @@ Delete all local branches that have been merged
 
 Get rid of old remote tracking branches
 `git remote prune origin`
+
+
+### Squash commits
+
+e.g for last three commits
+
+`git reset --soft HEAD~3 &&`
+`git commit`
+
+then force push
