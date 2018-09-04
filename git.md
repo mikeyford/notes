@@ -30,4 +30,4 @@ e.g for last three commits
 `git reset --soft HEAD~3 &&`
 `git commit`
 
-then force push
+then force push with `git push origin branchname -f`
