@@ -6,4 +6,6 @@
 
 [kaylee](https://github.com/mikeyford/notes/blob/master/kaylee.md)
 
+[python](https://github.com/mikeyford/notes/blob/master/python.md)
+
 [shell](https://github.com/mikeyford/notes/blob/master/shell.md)
