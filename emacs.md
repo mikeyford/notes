@@ -10,6 +10,7 @@
 
 ### Dired Mode
 
+`s` sort by date
 `C-x up` go up a dir
 `0 w` Copy path of file  
 `+` New dir  
