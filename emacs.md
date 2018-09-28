@@ -17,9 +17,9 @@
 `C-x <RET>` open file in OS default app  
 `! zip archive_name.zip *` do-shell-command and zip selected files  
 
-`C-x C-q` enter edit mode
-`C-c C-c` commit changes
-`C-c ESC` discard changes
+`C-x C-q` enter edit mode  
+`C-c C-c` commit changes  
+`C-c ESC` discard changes  
 
 
 ### Markdown Mode
