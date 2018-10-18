@@ -21,6 +21,14 @@
 `C-c ESC` discard changes
 
 
+### Magit mode
+
+When resolving conflicts
+`C-c ^ m` keep mine
+`C-c ^ o` keep other
+
+
+
 ### Markdown Mode
 
 `markdown-preview`
