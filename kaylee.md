@@ -14,6 +14,9 @@ __or__ use this command to delete from the e.g. anm2/data dir:
 `find /mnt/anm2/data -type f -mmin +720 -exec rm {} +`
 
 
+These days, lots of the space is taken up by the logs in `/var/log` look in there (need `sudo rm`)
+
+
 ### ANM Audiece Checks 
 
 `ssh anmedia-feeder`

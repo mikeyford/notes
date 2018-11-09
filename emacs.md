@@ -2,7 +2,7 @@
 
 ### personal
 `C-c <-/->` previous/other frame  
-`C-x p` project-explorer  
+`C-c p` project-explorer  
 `C-x t` transpose frames  
 `C-x r` reverse frames horizontally  
 
