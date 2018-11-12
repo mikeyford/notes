@@ -10,15 +10,16 @@
 
 ### Dired Mode
 
-`C-x up` go up a dir
-`0 w` Copy path of file  
+`s` sort by date  
+`C-x up` go up a dir  
+`0 w` Copy path of file    
 `+` New dir  
-`C-x <RET>` open file in OS default app
-`! zip archive_name.zip *` do-shell-command and zip selected files
+`C-x <RET>` open file in OS default app  
+`! zip archive_name.zip *` do-shell-command and zip selected files  
 
-`C-x C-q` enter edit mode
-`C-c C-c` commit changes
-`C-c ESC` discard changes
+`C-x C-q` enter edit mode  
+`C-c C-c` commit changes  
+`C-c ESC` discard changes  
 
 
 ### Magit mode
