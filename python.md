@@ -7,9 +7,9 @@
 `%aimport utils.processing`
 
 ### Prod project in jupyter notebook located elsewhere
-`import sys`
-`sys.path.append("path/to/project/")`
-`from file import object`
+`import sys`  
+`sys.path.append("path/to/project/")`  
+`from file import object`  
 
 ### Ignore specific warning type
 
