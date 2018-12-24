@@ -8,7 +8,7 @@ If already on working branch, with commits pushed to origin
 
 or the nice, easy way in magit:  
 `y` show refs, (see if you're behind master and how far)  
-'r' rebase onto:  
+`r` rebase onto:  
 `e` elsewhere, choose origin/master  
 force push branch with lease  
 
