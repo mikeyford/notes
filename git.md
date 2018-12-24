@@ -6,11 +6,11 @@ If already on working branch, with commits pushed to origin
 `git fetch && git rebase origin/master`  
 `git push branchname -f`
 
-or the nice, easy way in magit:
-`y` show refs, (see if you're behind master and how far)
-'r' rebase onto:
-`e` elsewhere, choose origin/master
-force push branch with lease
+or the nice, easy way in magit:  
+`y` show refs, (see if you're behind master and how far)  
+'r' rebase onto:  
+`e` elsewhere, choose origin/master  
+force push branch with lease  
 
 
 ### Clone Repo with token (allows cronjobs etc. to push to remote)
