@@ -21,10 +21,3 @@
 `plt.rcParams['figure.figsize']=[8, 6]`
 
 
-### Import module file to nb
-
-```
-import sys
-sys.path.append('/Users/mike/witan.send.analysis/input_data_vis/')
-import transitions_vis as tv```
-
