@@ -8,7 +8,7 @@
 
 ### Prod project in jupyter notebook located elsewhere
 `import sys`  
-`sys.path.append("path/to/project/")`  (needs to be full path) 
+`sys.path.append("path/to/project/")`  (needs to be full path)  
 `from file import object`  
 
 ### Ignore specific warning type
