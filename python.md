@@ -6,7 +6,7 @@
 `%autoreload 1`  
 `%aimport utils.processing`
 
-### Prod project in jupyter notebook located elsewhere
+### Inspect project in jupyter notebook located elsewhere
 `import sys`  
 `sys.path.append("path/to/project/")`  (needs to be full path)  
 `from file import object`  
@@ -21,3 +21,6 @@
 `plt.rcParams['figure.figsize']=[8, 6]`
 
 
+### Make conda env available in base jupyter environment 
+`conda install ipykernel`
+`python -m ipykernel install --user --name=bret`
