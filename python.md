@@ -22,5 +22,5 @@
 
 
 ### Make conda env available in base jupyter environment 
-`conda install ipykernel`
+`conda install ipykernel`  
 `python -m ipykernel install --user --name=bret`
