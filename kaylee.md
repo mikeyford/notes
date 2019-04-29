@@ -15,7 +15,8 @@ __or__ use this command to delete from the e.g. anm2/data dir:
 
 
 These days, lots of the space is taken up by the logs in `/var/log` look in there (need `sudo rm`)
-
+Any log that has a date appended to the filename can be safely deleted e.g. `sudo rm messages-*`
+(also look in the appnexus-branded and anm dirs and do the same thing)
 
 ### ANM Audiece Checks 
 
