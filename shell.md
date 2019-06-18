@@ -23,5 +23,16 @@
 
 `Ctrl-R` reverse search history (recursive)
 `Ctrl-G` escape reverse search and preserve input
+
+Here document example:
+```
+curl http://localhost:8080/invocations -H "Content-Type:application/json" \
+-d @- << EOF
+{
+    "key-1": "value-1",
+    "key-2": "value-2",
+}
+EOF
+```
  
 
